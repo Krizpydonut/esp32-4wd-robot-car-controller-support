@@ -1,6 +1,7 @@
 # ESP32 Camera 4WD Robot Car
 Just a small project adding bluetooth controller functionality. I don't know if this code works with all controllers.
 
-Main code: https://www.dropbox.com/scl/fo/gkew8etvn1thk1vni6e8b/h/Main%20Code?dl=0&subfolder_nav_tracking=1
+Main code from lafvin
 
-Bluetooth and WiFi cannot be one on at the same time. Meaning, camera does not work or function.
+# Disclaimer⚠️
+Camera will not work on this code because bluetooth and WiFi cannot be on at the same time.
